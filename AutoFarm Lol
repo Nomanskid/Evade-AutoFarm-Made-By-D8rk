@@ -1,0 +1,4 @@
+localplayer.Character:FindFirstChild('HumanoidRootPart').CFrame = CFrame.new(6007, 7005, 8005)
+        end
+    end
+end)
